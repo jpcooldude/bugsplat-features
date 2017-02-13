@@ -64,5 +64,10 @@ div#features-image-block.col-6.col-md-6 {
     border-bottom: 1px solid rgba(150,150,150,0.14)
 }
 
+@media (min-width: 1200px)
+.container {
+    width: 1170px;
+}
+
 
 
